@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+raw/
+2022_09_13_mobilidade_multas_cet.R
